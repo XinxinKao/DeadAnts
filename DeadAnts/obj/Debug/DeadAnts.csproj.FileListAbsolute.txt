@@ -5,3 +5,10 @@ c:\users\xinyi.kao95\documents\visual studio 2013\Projects\DeadAnts\DeadAnts\bin
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\DeadAnts\DeadAnts\obj\Debug\DeadAnts.csprojResolveAssemblyReference.cache
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\DeadAnts\DeadAnts\obj\Debug\DeadAnts.dll
 c:\users\xinyi.kao95\documents\visual studio 2013\Projects\DeadAnts\DeadAnts\obj\Debug\DeadAnts.pdb
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\bin\Debug\DeadAnts.dll
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\bin\Debug\DeadAnts.pdb
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\bin\Debug\nunit.framework.dll
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\bin\Debug\nunit.framework.xml
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\obj\Debug\DeadAnts.csprojResolveAssemblyReference.cache
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\obj\Debug\DeadAnts.dll
+C:\Users\xinyi.kao95\Desktop\github\DeadAnts\DeadAnts\obj\Debug\DeadAnts.pdb
